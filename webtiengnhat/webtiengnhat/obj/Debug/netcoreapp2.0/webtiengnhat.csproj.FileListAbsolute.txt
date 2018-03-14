@@ -1,0 +1,11 @@
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\bin\Debug\netcoreapp2.0\webtiengnhat.deps.json
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\bin\Debug\netcoreapp2.0\webtiengnhat.runtimeconfig.json
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\bin\Debug\netcoreapp2.0\webtiengnhat.runtimeconfig.dev.json
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\bin\Debug\netcoreapp2.0\webtiengnhat.dll
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\bin\Debug\netcoreapp2.0\webtiengnhat.pdb
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\obj\Debug\netcoreapp2.0\webtiengnhat.csprojResolveAssemblyReference.cache
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\obj\Debug\netcoreapp2.0\webtiengnhat.csproj.CoreCompileInputs.cache
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\obj\Debug\netcoreapp2.0\webtiengnhat.AssemblyInfoInputs.cache
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\obj\Debug\netcoreapp2.0\webtiengnhat.AssemblyInfo.cs
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\obj\Debug\netcoreapp2.0\webtiengnhat.dll
+D:\Mydata\NGOPHONG\GITHUB\tiengnhat\webtiengnhat\webtiengnhat\obj\Debug\netcoreapp2.0\webtiengnhat.pdb
